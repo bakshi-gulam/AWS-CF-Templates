@@ -1,0 +1,6 @@
+AWS CloudFormation Templates
+============================
+:sectnums:
+
+== https://github.com/bakshi-gulam/AWS-CF-Templates/blob/master/aws-eks-ctrl-plane%2Bworker-nodes.yaml[aws-eks-ctrl-plane+worker-nodes.yaml]
+A CF Template for launching EKS Control Plane and Worker Nodes at one-shot.
